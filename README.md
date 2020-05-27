@@ -18,7 +18,10 @@ Four visualization pages, each with:
 Contains all of the visualizations on the same page so we can easily visually compare them.
 Uses a bootstrap grid for the visualizations.
 
-### Below are some of the graphs
+
+
+### Below are some of the graphs:
+
 
 ![graph 1](https://github.com/jacarroll232/Web-design/blob/master/Fig1.png)
 
