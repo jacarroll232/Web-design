@@ -20,7 +20,9 @@ Uses a bootstrap grid for the visualizations.
 
 
 
-![graph 1](
+![graph 1](https://github.com/jacarroll232/Web-design/blob/master/Fig1.png)
+
+![graph 2](
 
 
 
